@@ -1,1 +1,1 @@
-web: gogreeter
+web: gostatic
